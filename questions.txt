@@ -1,0 +1,8 @@
+Classes are used to group items and ids are used to manipulate one individual item.
+
+Width, In-line/In-line Block, Margin, Padding, and Borders are all really popular 
+CSS property used today, 
+
+I've personally used in-line styling to edit photos the size of a photo or iframe from 
+another source, external/internal style sheets ar commonly used because it's more 
+effective to use when you have so much css on your page. 
